@@ -33,10 +33,27 @@ Tensorflow 1.12
 **visualization:**
 ![kos49_Part4.jpg](/visualization/test/kos48_Part5.jpg)
 
-# testint the KolektorSDD
+# testing the KolektorSDD
   After downloading the KolektorSDD and changing the param[data_dir]
   ```
   python run.py --test
   ```
   Then you can find the result in the "/visulaiation/test" and  "Log/*.txt"
   
+ # training the KolektorSDD
+ 
+ **First, only the segmentation network is independently trained, then the weights for the segmentation network are frozen and only the decision network layers are trained.**
+ 
+   training the segment network
+   ```
+   python run.py --trian_segment
+   ```
+   training the  decision network
+   ```
+   python run.py  --train_decison
+   ```
+   training the total network
+   ```
+   python run.py  --train_total
+   ```
+ 
