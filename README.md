@@ -32,3 +32,11 @@ Tensorflow 1.12
 ```
 **visualization:**
 ![kos49_Part4.jpg](/visualization/test/kos48_Part5.jpg)
+
+# testint the KolektorSDD
+  After downloading the KolektorSDD and changing the param[data_dir]
+  ```
+  python run.py --test
+  ```
+  Then you can find the result in the "/visulaiation/test" and  "Log/*.txt"
+  
