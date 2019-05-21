@@ -8,7 +8,7 @@ cuda 9.0
 cudnn 7.1.4
 Tensorflow 1.12
 ```
-# You Should know
+# You should know
 
   I used the Dataset used in the papar, you can download [KolektorSDD](https://www.vicos.si/Downloads/KolektorSDD) here.
   If you train you own datset ,you should change the dataset interfence for you dataset.
