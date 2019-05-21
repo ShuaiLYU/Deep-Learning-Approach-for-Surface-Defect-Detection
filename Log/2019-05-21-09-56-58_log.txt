@@ -1,0 +1,12 @@
+[INFO]   2019-05-21 09:56:58,223    start testing
+[INFO]   2019-05-21 09:57:16,378     total number of samples = 160
+[INFO]   2019-05-21 09:57:16,379    positive = 22
+[INFO]   2019-05-21 09:57:16,379    negative = 138
+[INFO]   2019-05-21 09:57:16,379    TP = 21
+[INFO]   2019-05-21 09:57:16,379    NP = 0
+[INFO]   2019-05-21 09:57:16,379    TN = 138
+[INFO]   2019-05-21 09:57:16,379    FN = 1
+[INFO]   2019-05-21 09:57:16,379    accuracy(准确率) = 0.9938
+[INFO]   2019-05-21 09:57:16,379    prescision（查准率） = 1.0000
+[INFO]   2019-05-21 09:57:16,379    recall（查全率） = 0.9545
+[INFO]   2019-05-21 09:57:16,379    the visualization saved in ./visualization/test
