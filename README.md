@@ -13,11 +13,11 @@ Tensorflow 1.12
   If you train you own datset ,you should change the dataset interfence for you dataset.
 
   You can refer to the [paper](https://arxiv.org/pdf/1903.08536v1.pdf) for details of the experiment.
-  Although, I did not strictly follow the params of the papar , I still got a good result.
+ 
 
 
 # my experimental results on KolektorSDD
-Notes: the first 30 subfolders are used as training sets, the remaining 20 for testing.
+Notes: the first 30 subfolders are used as training sets, the remaining 20 for testing.   Although, I did not strictly follow the params of the papar , I still got a good result.
 ```
 2019-05-21 09:20:54,634 - utils - INFO -  total number of samples = 160
 2019-05-21 09:20:54,634 - utils - INFO - positive = 22
