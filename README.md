@@ -30,3 +30,5 @@ Tensorflow 1.12
 2019-05-21 09:20:54,635 - utils - INFO - prescision（查准率） = 1.0000
 2019-05-21 09:20:54,635 - utils - INFO - recall（查全率） = 0.9545
 ```
+**visualization:**
+![kos49_Part4.jpg](/visualization/test/kos48_Part5.jpg)
