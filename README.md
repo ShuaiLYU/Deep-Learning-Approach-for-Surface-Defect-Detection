@@ -1,7 +1,7 @@
 # Deep-Learning-Approach-for-Surface-Defect-Detection
   A Tensorflow implementation of "**(cvpr2019)Segmentation-Based Deep-Learning Approach for Surface-Defect Detection**"
   （***秒杀 DeepLabV3+ 和 Unet 的 缺陷检测网络***）
-# The test nevironment
+# The test environment
 ```
 python 3.6
 cuda 9.0
