@@ -116,8 +116,10 @@ def main():
         param["mode"]="training"
         param["train_mode"] = "segment"
     if args.train_decision:
+        param["mode"]="training"
         param["train_mode"] = "decision"
     if args.train_total:
+        param["mode"]="training"
         param["train_mode"] = "total"
     if args.test :
         param["mode"] = "testing"
