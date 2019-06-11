@@ -48,7 +48,7 @@ Tensorflow 1.12
  
    training the segment network
    ```
-   python run.py --trian_segment
+   python run.py --train_segment
    ```
    training the  decision network
    ```
