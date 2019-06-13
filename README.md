@@ -1,7 +1,7 @@
 # Deep-Learning-Approach-for-Surface-Defect-Detection
   A Tensorflow implementation of "**Segmentation-Based Deep-Learning Approach for Surface-Defect Detection**"
   （***秒杀 DeepLabV3+ 和 Unet 的 缺陷检测网络***）
-   The author submitted the paper to cvpr2019 but it was not accepted. 
+   The author submitted the paper to  Journal of Intelligent Manufacturing (https://link.springer.com/article/10.1007/s10845-019-01476-x), where it was published In May 2019 . 
 # The test environment
 ```
 python 3.6
@@ -14,7 +14,7 @@ Tensorflow 1.12
   I used the Dataset used in the papar, you can download [KolektorSDD](https://www.vicos.si/Downloads/KolektorSDD) here.
   If you train you own datset ,you should change the dataset interfence for you dataset.
 
-  You can refer to the [paper](https://arxiv.org/pdf/1903.08536v1.pdf) for details of the experiment.
+  You can refer to the [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) for details of the experiment.
  
 
 
