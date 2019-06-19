@@ -52,7 +52,7 @@ Tensorflow 1.12
    ```
    training the  decision network
    ```
-   python run.py  --train_decison
+   python run.py  --train_decision
    ```
    training the total network( not good）
    ```
